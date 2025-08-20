@@ -1,0 +1,1 @@
+This is test2.txt for S3 storage class labs.

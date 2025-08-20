@@ -1,0 +1,8 @@
+Comparing 1GB / month for Standard vs Standard-IA vs Intelligent-Tiering
+
+Standard is General purpose storage for any type of data, typically used for frequently accessed data, and First 50 TB / Month	$0.023 per GB
+
+Standard-IA is For long lived but infrequently accessed data that needs millisecond access with All Storage / Month	$0.0125 per GB
+
+Intelligent-Tiering is Automatic cost savings for data with unknown or changing access patterns	
+Monitoring and Automation, All Storage / Month (Objects > 128 KB)	$0.0025 per 1,000 objects
